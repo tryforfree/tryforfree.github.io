@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-image: url("saisburys_bg.jpg");
+  background-image: url("sainsburys_bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-color: #ffffff;
@@ -13,7 +13,7 @@ body {
 
 nav {
   height: 50px;
-  background-color: #ffc800;
+  background-color: #ff9900;
   margin-bottom: 30px;
   text-align: center;
 }
